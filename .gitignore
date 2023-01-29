@@ -1,0 +1,17 @@
+# Terraform
+.terraform
+*.tfvars
+*.tfstate
+*.tfstate.*
+crash.log
+*.hcl
+
+# Idea
+.idea
+
+# Python
+venv
+
+# other
+*.zip
+plugins
