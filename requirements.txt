@@ -1,1 +1,2 @@
-awswrangler==2.15.1
+awswrangler==2.19.0
+boto3==1.26.59
